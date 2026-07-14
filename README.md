@@ -15,3 +15,8 @@ Open `index.html` in a browser.
 ## Contact information used
 - jonah@seniordanceexperience.com
 - (716) 564-7663
+
+## Latest updates
+- Fixed hero message clipping
+- Added four resident-community testimonials
+- Added premium hover interactions and spacing refinements
