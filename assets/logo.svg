@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 92" role="img" aria-labelledby="title desc">
+<title id="title">Senior Dance Experience</title>
+<desc id="desc">A refined movement-inspired monogram with the company name.</desc>
+<g fill="none" stroke="#B8904A" stroke-width="3.5" stroke-linecap="round">
+  <path d="M34 58c16-26 32-26 48 0"/>
+  <path d="M46 38c8 15 16 25 28 34"/>
+  <path d="M70 38c-7 16-15 27-28 35"/>
+  <circle cx="58" cy="24" r="7" fill="#B8904A" stroke="none"/>
+</g>
+<text x="106" y="39" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#173D4F" letter-spacing=".8">Senior Dance</text>
+<text x="106" y="69" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#173D4F" letter-spacing="4.1">EXPERIENCE</text>
+</svg>
